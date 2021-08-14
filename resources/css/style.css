@@ -1,0 +1,35 @@
+html {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#download-link {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+aside{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
